@@ -33,3 +33,23 @@ Next.js, TypeScript, SQLite/Supabase.
 State that the app is educational and not legal or regulatory advice.
 
 [Implementation planning notes](notes/IMPLEMENTATION-NOTES.md)
+
+<!-- portfolio-future-plans:start -->
+## Future plans and PRD direction
+
+*Planning review: 24 September 2026. These are proposed next steps, not completed work or measured outcomes.*
+
+**Priority recommendation:** Recommend consolidation before further standalone development.
+
+Preserve launch gates, control rationale and evidence requirements within Enterprise LLM Model Hub or AI Deployment Command Center.
+
+### Next scope
+
+- [ ] Inventory unique requirements and planning notes before moving anything.
+- [ ] Use Enterprise LLM Model Hub or AI Deployment Command Center as the proposed destination; record the destination and retained source history after an actual migration.
+- [ ] Update incoming portfolio links before considering archive status. No consolidation or archival is implied by this planning note.
+
+### Validation and decision criteria
+
+Trace each required control to a specific risk and an accountable decision owner. Reopen a standalone PRD only if user discovery establishes a distinct problem that the retained project cannot cover.
+<!-- portfolio-future-plans:end -->
